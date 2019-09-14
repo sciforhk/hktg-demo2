@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hktg-demo2/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/hktg-demo2/static/js/main.5b7f92f9.chunk.js",
+    "main.js.map": "/hktg-demo2/static/js/main.5b7f92f9.chunk.js.map",
+    "runtime~main.js": "/hktg-demo2/static/js/runtime~main.1efd7900.js",
+    "runtime~main.js.map": "/hktg-demo2/static/js/runtime~main.1efd7900.js.map",
+    "static/js/2.589a7e48.chunk.js": "/hktg-demo2/static/js/2.589a7e48.chunk.js",
+    "static/js/2.589a7e48.chunk.js.map": "/hktg-demo2/static/js/2.589a7e48.chunk.js.map",
+    "index.html": "/hktg-demo2/index.html",
+    "precache-manifest.016857045f8e0dcf513455a70424108c.js": "/hktg-demo2/precache-manifest.016857045f8e0dcf513455a70424108c.js",
+    "service-worker.js": "/hktg-demo2/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/hktg-demo2/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
